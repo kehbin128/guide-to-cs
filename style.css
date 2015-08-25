@@ -1,0 +1,40 @@
+span{
+    color:green;
+}
+.red-text{
+    color:red;
+}
+#name-div{
+  
+    font-size:150%;
+}
+#name-div:first-letter{
+  text-transform:capitalize;
+    font-size:200%;
+    color:white;
+    background-color:black;
+    padding:4px 4px;
+    margin:0px 10px 0px 2px;
+    border-radius:25% 0%;
+}
+.bold-text{
+    font-weight:bold;
+}
+#my-name{
+    text-transform:uppercase;
+}
+#game span{
+    font-weight:bold;
+    font-style:italic;
+}
+img{
+    height:200px;
+    float:left;
+
+}
+body {
+    background-color: Orange;
+}
+.blue-text{
+    color:blue;
+}
